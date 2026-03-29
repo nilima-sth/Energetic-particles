@@ -2,7 +2,7 @@
 
 > **Status:** Active — Case Study Visualisation Phase  
 > **Target Journal:** AGU *Space Weather* (Q1)  
-> **Authors:** Nilima Shrestha 
+> **Authors:** Nilima Shrestha and Shreeyan Rijal
 
 ---
 
