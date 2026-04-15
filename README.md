@@ -1,7 +1,6 @@
 # Energetic Particle Dynamics During Major Geomagnetic Storms
 
-> **Status:** Active — Case Study Visualisation Phase  
-> **Target Journal:** AGU *Space Weather* (Q1)  
+> **Target Journal:** Q1 level  
 > **Authors:** Nilima Shrestha and Shreeyan Rijal
 
 ---
