@@ -2,7 +2,7 @@
 
 > **Target Journal:** Q1 level  
 > **Authors:** Nilima Shrestha and Shreeyan Rijal
-
+> email: nili373ma@gmail.com
 ---
 
 ## 1. Scientific Objective
